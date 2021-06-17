@@ -17,11 +17,11 @@ Please refer to the code’s markdown comments for step-by-step description of t
 
 Below are the links to the code and the supplemental materials:
 
-*[The code](whale_analysis.ipynb)
-*["Whale" Portfolio Data](Resources/whale_returns.csv)
-*[Algoritmic Trading Portfolio Data](Resources/algo_returns.csv)
-*[S&P 500 Historic Data](Resources/sp500_history.csv)
-*[Microsoft Stock Closing Prices Data](Resources/msft.csv)
-*[Tesla Stock Closing Prices Data](Resources/tsla.csv)
-*[Intel Stock Closing Prices Data](Resources/intc.csv)
-*[Allstate Insurance Stock Closing Prices Data](Resources/all.csv)
+*[The code](whale_analysis.ipynb)  
+*["Whale" Portfolio Data](Resources/whale_returns.csv)  
+*[Algoritmic Trading Portfolio Data](Resources/algo_returns.csv)  
+*[S&P 500 Historic Data](Resources/sp500_history.csv)  
+*[Microsoft Stock Closing Prices Data](Resources/msft.csv)  
+*[Tesla Stock Closing Prices Data](Resources/tsla.csv)  
+*[Intel Stock Closing Prices Data](Resources/intc.csv)  
+*[Allstate Insurance Stock Closing Prices Data](Resources/all.csv)  
